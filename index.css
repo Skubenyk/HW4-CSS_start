@@ -1,6 +1,94 @@
 * {
-margin: 0; 
-padding: 0;
-box-sizing: border-box;
-border: 1px solid red;
+   margin: 0; 
+   padding: 0;
+   box-sizing: border-box;
+   /* border: 1px solid red; */
+}
+/* img {
+  width: 100%; 
+} */
+nav {
+   height:50px;
+   margin-top:25px;
+   width:100%;
+}
+.nav_home {
+   width:55px;
+   height:20px;
+   margin-left:775px;
+}
+.nav_about {
+   width:80px;
+   height:20px;
+   margin-left:40px;;
+}
+.nav_skills {
+   width: 40px; 
+   height: 20px;
+   margin-left:40px;
+}
+.nav_contacts {
+   width:80px;
+   height:25px;
+   margin-left:40px;
+}
+h1 {
+   margin-left: 480px;
+}
+.foto_denis {
+   width:943,61px;
+   height:387px;
+   display:block;
+   margin:0 auto;
+}
+h2 {
+   text-align:center;
+   margin-top:120px;
+}
+.text_section_about,.text_section_skills,.text_section_contacts {
+   margin-top:25px;
+   text-align:center;
+   margin-bottom:25px;
+}
+.logo_skill_ps,.logo_skill_ai,.logo_skill_ae {
+   width: 90px;
+   right: 90px;
+}
+.logo_skill_figma {
+   width:60px;
+   height:90px;
+}
+.logo_skill_ps {
+   margin-left: 505px;
+   margin-bottom: 25px;
+}
+.logo_skill_ai,.logo_skill_ae,.logo_skill_figma {
+   margin-left:170px;
+   margin-bottom: 25px;
+} 
+.star_ps {
+   margin-left: 495px;
+}
+.star_ai,.star_ae,.star_figma {
+   margin-left:150px;
+}
+.text_ps {
+   margin-left:490px;
+}
+.text_ai,.text_ae,.text_figma {
+   margin-left: 140px;
+}
+.text_section_footer {
+   margin-bottom: 20px;
+   text-align:center;
+}
+.in_network {
+   margin-left:750px;  
+}
+.instag_network,.be_network,.ball_network  {
+   margin-left:70px;
+}
+.in_network,.instag_network,.be_network,.ball_network {
+   width:40px;
+   height:40px;
 }
