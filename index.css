@@ -24,11 +24,11 @@ nav {
 .nav_about,.nav_skills,.nav_contacts {
    margin-left:40px;
 }
-h1 {
-   margin-left: 330px;
+.title_denis {
+   margin-left: 205px;
 }
 .foto_denis {
-   width:943,61px;
+   width:945px;
    display:block;
    margin:0 auto;
 }
@@ -65,7 +65,7 @@ h2 {
    margin-left: 240px;
 }
 .star_ai,.star_ae,.star_figma {
-   margin-left:150px;
+   margin-left:130px;
 }
 .text_section_footer {
    margin-bottom: 20px;
